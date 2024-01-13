@@ -1,0 +1,14 @@
+{
+	"CON_EDISON": {
+		"SCOPES_REDIRECT_URL": "https://www.coned.com/accounts-billing/dashboard/billing-and-usage/share-my-data-connections/third-party-authorization/redirect?client_id=0oawgo5w59g1XHT9N0x7&scope=FB%3D1_3_4_5_7_10_13_14_18_32_33_35_37_38_41_44%3BIntervalDuration%3DMonthly_3600_900_300%3BBlockDuration%3DMonthly_Daily%3BHistoryLength%3D63113904%3B%7CFB%3D1_3_6_10_13_14_15_16_28_32_33_35_37_38_41_44%3BIntervalDuration%3DMonthly%3BBlockDuration%3DMonthly%3BHistoryLength%3D63113904%3B%7CFB%3D1_3_4_5_7_13_14_18_32_33_35_37_38_41_44%3BIntervalDuration%3D900_300%3BBlockDuration%3DDaily%3BHistoryLength%3D86400%3B%7CFB%3D1_3_13_14_46_47%3B",
+		"REDIRECT_TO_UTILITY": "https://www.coned.com/en/accounts-billing/dashboard/billing-and-usage/share-my-data-connections/third-party-authorization?ThirdPartyId=31"
+	},
+	"ORU": {
+		"SCOPES_REDIRECT_URL": "https://www.oru.com/accounts-billing/dashboard/billing-and-usage/share-my-data-connections/third-party-authorization/redirect?client_id=0oawgo5w59g1XHT9N0x7&scope=FB%3D1_3_4_5_7_10_13_14_18_32_33_35_37_38_41_44%3BIntervalDuration%3DMonthly_3600_900_300%3BBlockDuration%3DMonthly_Daily%3BHistoryLength%3D63113904%3B%7CFB%3D1_3_6_10_13_14_15_16_28_32_33_35_37_38_41_44%3BIntervalDuration%3DMonthly%3BBlockDuration%3DMonthly%3BHistoryLength%3D63113904%3B%7CFB%3D1_3_4_5_7_13_14_18_32_33_35_37_38_41_44%3BIntervalDuration%3D900_300%3BBlockDuration%3DDaily%3BHistoryLength%3D86400%3B%7CFB%3D1_3_13_14_46_47%3B",
+		"REDIRECT_TO_UTILITY": "https://www.oru.com/en/accounts-billing/dashboard/billing-and-usage/share-my-data-connections/third-party-authorization?ThirdPartyId=31"
+	},
+	"COM_ED": {
+		"SCOPES_REDIRECT_URL": "https://secure.comed.com/MyAccount/MyBillUsage/pages/secure/ConnectConfirm.aspx?client_id=CottageEnergy&redirect_uri=https://energybycottage.com/oauth/comed/handback&response_type=code&scope=FB=1_3_4_5_13_14_18_35_37_40;IntervalDuration=1800;BlockDuration=Monthly;HistoryLength=63072000;BR=1&state=DUMMY",
+		"REDIRECT_TO_UTILITY": "https://secure.comed.com/MyAccount/MyBillUsage/pages/secure/GreenButtonConnectDownloadMyData.aspx"
+	}
+}

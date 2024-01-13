@@ -1,0 +1,16 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+dist
+old-code-snippets
+# Local Netlify folder
+.netlify
+not-for-github
+.DS_STORE
+.envrc
+z-python-scripts
+.eslintcache
+ARCHIVE

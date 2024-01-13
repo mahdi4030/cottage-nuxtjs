@@ -1,0 +1,18 @@
+{
+	"CON_EDISON": {
+		"SUBSCRIPTION_KEY": "",
+		"GBC_URL": "https://api.coned.com/gbc/v1",
+		"CLIENT_ID": "",
+		"CLIENT_SECRET": ""
+	},
+	"ORU": {
+		"SUBSCRIPTION_KEY": "",
+		"GBC_URL": "https://api.coned.com/gbc/v1",
+		"CLIENT_ID": "",
+		"CLIENT_SECRET": ""
+	},
+	"COM_ED": {
+		"AUTHORIZATION": "",
+		"GBC_URL": "https://soagateway.exeloncorp.com"
+	}
+}

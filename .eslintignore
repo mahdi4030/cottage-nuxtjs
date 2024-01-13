@@ -1,0 +1,9 @@
+/build
+/coverage
+/public
+/.nuxt
+/.husky
+/.output
+/dist
+/.netlify
+/old-code-snippets

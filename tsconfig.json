@@ -1,0 +1,5 @@
+{
+	// https://v3.nuxtjs.org/concepts/typescript
+	"extends": "./.nuxt/tsconfig.json",
+	"files": ["./auto-import.d.ts", "declaration.d.ts", "global.d.ts"]
+}
